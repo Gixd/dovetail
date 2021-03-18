@@ -20,9 +20,6 @@
       "SquareBit\\Dovetail\\Test\\": "tests/"
     }
   },
-  "require": {
-    "guzzlehttp/guzzle": "*"
-  },
   "extra": {
     "laravel": {
       "providers": [
